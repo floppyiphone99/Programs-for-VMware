@@ -40,6 +40,3 @@ The ISO includes standalone `.exe` installers for:
 - This ISO is intended for **personal use only**. Redistribution is restricted unless all third-party license terms are met.
 
 ---
-
-## 📚 File Overview
-
