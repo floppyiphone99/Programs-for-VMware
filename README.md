@@ -25,7 +25,7 @@ The ISO includes standalone `.exe` installers for:
 
 ## 🔧 Usage
 
-1. Mount the ISO to your XP or Server 2003 virtual machine using VMware.
+1. Mount the ISO to your Windows virtual machine using VMware.
 2. Open the mounted virtual CD/DVD drive inside the guest OS.
 3. Manually browse and run the `.exe` files to install desired software.
 4. Refer to `onecore_notice.txt` before using OneCore API binaries.
