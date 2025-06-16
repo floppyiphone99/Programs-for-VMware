@@ -2,7 +2,7 @@
 
 ## 📦 Overview
 
-This ISO contains a hand-picked collection of Windows XP-compatible software and system utilities designed to help users set up and enhance XP virtual machines inside VMware.
+This ISO contains a hand-picked collection of All Windows-compatible software and system utilities designed to help users set up and enhance Windows virtual machines inside VMware.
 
 There are **no scripts** or automated setup routines. All included software must be installed manually by the user.
 
